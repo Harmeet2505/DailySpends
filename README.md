@@ -20,7 +20,7 @@ A personal finance tracking application built with **SwiftUI**, utilizing **Fire
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/YOUR_GITHUB_USERNAME/DailySpends.git
+    git clone https://github.com/Harmeet2505/DailySpends.git
     cd DailySpends
     ```
 
@@ -52,16 +52,4 @@ A personal finance tracking application built with **SwiftUI**, utilizing **Fire
 - [ ] **Export Reports as PDF/CSV**
 - [ ] **User Authentication (Google/Apple Sign-in)**
 
-## 🤝 Contributing
 
-Contributions are welcome! Fork the repo and submit a pull request to improve the app.
-
-## 📄 License
-
-This project is open-source under the **MIT License**.
-
-## 📫 Contact
-
-For queries or suggestions, reach out via:
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/YOUR_LINKEDIN)
-- Email: your.email@example.com
